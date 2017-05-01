@@ -39,7 +39,7 @@ public class PatientRegister {
 				
 				WebElement email= driver.findElement(By.name("username"));
 				email.click();
-				email.sendKeys("fathima.suroor@gmail.com");
+				email.sendKeys("fathi@gmail.com");
 				
 			
 				//Password as per the requirements
